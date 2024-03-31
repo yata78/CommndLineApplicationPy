@@ -14,4 +14,9 @@ Python  3.10.12
 Python3 ManipulateFile.py copy inputFile outputFile
 
 inputFileの内容をoutputFileに上書きしてコピーします。
-outputFileが存在しない場合はoutputFileを作成してからコピーします
+
+### reverse
+Python3 ManipulateFile.py reverse inputFile outputFile
+
+inputFIleの内容を反転してoutputFileに出力します。
+
