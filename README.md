@@ -6,7 +6,9 @@ Python  3.10.12
 
 ## 説明
 これはCLIアプリケーションです
-使い方
+
+
+## 使い方
 
 ### copy
 Python3 ManipulateFile.py copy inputFile outputFile
