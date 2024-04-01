@@ -7,7 +7,7 @@ if args[1] == "copy":
 
     #TODO try文の重複をwith句で定義 
     #TODO バリデータ
-    #TODO 機能的には出来ているがめちゃめちゃ汚い
+    #TODO 機能的には出来ているがめちゃめちゃ汚いから修正必須
     try:
         inputPath = args[2]
         ifile = open(inputPath)
